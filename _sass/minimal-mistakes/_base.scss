@@ -2,13 +2,12 @@
    BASE ELEMENTS
    ========================================================================== */
 
-$type-size-4-5: 1.12em !default;
 
 html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  
+  font-size: 0.75em
 }
 
 body {
